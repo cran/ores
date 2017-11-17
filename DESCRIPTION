@@ -1,7 +1,7 @@
 Package: ores
 Title: Connector to the Objective Revision Evaluation Service (ORES)
-Version: 0.3.0
-Date: 2017-08-02
+Version: 0.3.1
+Date: 2017-11-17
 Author: Oliver Keyes [aut, cre], Aaron Halfaker [ctb], Yuvi Panda [ctb]
 Maintainer: Oliver Keyes <ironholds@gmail.com>
 Description: A connector to ORES (<http://ores.wmflabs.org/>), an AI project to provide edit scoring for content
@@ -17,6 +17,6 @@ Suggests: testthat, knitr, rmarkdown
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2017-08-02 10:33:25 UTC; ironholds
+Packaged: 2017-11-17 20:02:10 UTC; ironholds
 Repository: CRAN
-Date/Publication: 2017-08-02 12:46:24 UTC
+Date/Publication: 2017-11-17 20:09:51 UTC
